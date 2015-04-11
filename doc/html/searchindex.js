@@ -1,0 +1,1 @@
+Search.setIndex({terms:{"class":0,implement:0,content:1,thi:0},objects:{},titleterms:{welcom:1,solarwindow:0,document:[0,1],solarsystem:1,solarlight:0,solartextur:0,solarplanet:0,solarmain:0},objnames:{},objtypes:{},titles:["The Documentation","Welcome to Solarsystem&#8217;s documentation!"],envversion:43,filenames:["documentation","index"]})
